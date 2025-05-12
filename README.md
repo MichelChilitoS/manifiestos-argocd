@@ -1,2 +1,0 @@
-# manifiestos-argocd
-# manifiestos-argocd
